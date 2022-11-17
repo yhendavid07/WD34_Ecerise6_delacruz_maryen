@@ -1,0 +1,80 @@
+.topnav{
+    background: url("banner.png");
+    float: center;
+    color: black;
+    text-align: right;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana;
+    text-align: right;
+    background-size: cover;
+    padding: 35px;
+    margin: 0px;
+    word-spacing: 35px;
+}
+#topnav {
+    color: white;
+    text-decoration: none;
+}
+
+#sinukwan {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background: #ABABAB;
+    margin-top: -445px;
+    margin-right: -300px;
+    text-align: center;
+    
+}
+.hotairballoon {
+    padding-top: 120px;
+    padding-bottom: 40px;
+    background: #DBDBDB;
+    margin-right: 0px;
+    margin-top: 90px;
+   text-align: center;
+}
+.hotairballoonimg {
+    margin-top: 100px;
+    float:right ;
+    margin-left: 10px;
+    }
+#giantlantern {
+    padding-top: 120px;
+    padding-bottom: 70px;
+    background: #ABABAB;
+    margin-right: 0px;
+    margin-left: 0PX;
+    margin-top:75px ;
+    text-align: center;
+}
+#lanternimg {
+    float: left;
+    margin-top: 80px;
+}
+    
+.comment-section {
+    margin-left: 680px;
+    position: absolute;
+    margin-top: 400px;
+    transform: translate (-50, -50);
+    width: 500px;
+  }
+  .comment-section h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .comment-section input {
+    width: 100%;
+    height: 30px;
+    padding: 0 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  .comment-section textarea {
+    width: 100%;
+    height: 150px;
+    padding-left: 40px;
+  }
