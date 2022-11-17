@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Handlee&family=Satisfy&display=swap');
+
+.topnav{
+    background: url("banner.png");
+    float: center;
+    color: black;
+    text-align: right;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana;
+    text-align: right;
+    background-size: cover;
+    padding: 35px;
+    margin: 0px;
+    word-spacing: 35px;
+    
+    
+  }
+  #topnav {
+    color: white;
+    text-decoration: none;
+    
+  }
+
+h1 {
+    font-family: 'Carter One', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+.queensimg {
+  margin-left: 400px;
+  border-radius: 2%;
+}
+.paragraph1 {
+  margin-top: -400px;
+  margin-left: 400px;
+}
+#queensh2 {
+  margin-left: 520px;
+  font-size: 20px;
+}
+#calendar1 {
+  margin-top: 50px;
+  margin-left: 520px;
+}
+.abchotelimg {
+  margin-top: 100px;
+  margin-left: 400px;
+  border-radius: 2%;
+}
+.paragraph2 {
+  margin-top: -390px;
+  margin-left: 120px;
+}
+#abch2 {
+  margin-left: 795px;
+  font-size: 20px;
+}
+#calendar2 {
+  margin-top: 50px;
+  margin-left: 800px;
+}
+.wildorchidimg{
+  margin-top: 100px;
+  margin-left: 400px;
+  border-radius: 2%;
+}
+.pharagraph3 {
+  margin-top: -390px;
+  margin-left: 270px;
+}
+#wildorchidh2 {
+  margin-left: 645px;
+  font-size: 20px; 
+}
+#calendar3 {
+  margin-top: 50px;
+  margin-left: 650px;
+}
+.prismhotelimg {
+  margin-top: 100px;
+  margin-left: 400px;
+  border-radius: 2%;
+}
+.paragraph4 {
+  margin-top: -390px;
+  margin-left: 135px;
+}
+#prismhotelh2 {
+  margin-left: 775px;
+  font-size: 20px; 
+}
+#calendar4 {
+  margin-top: 50px;
+  margin-left: 780px;
+}
+.comment-section {
+  margin-left: 680px;
+  position: absolute;
+  margin-top: 400px;
+  transform: translate (-50, -50);
+  width: 500px;
+}
+.comment-section h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.comment-section input {
+  width: 100%;
+  height: 30px;
+  padding: 0 20px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.comment-section textarea {
+  width: 100%;
+  height: 150px;
+  padding-left: 40px;
+}

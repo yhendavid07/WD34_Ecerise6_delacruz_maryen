@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Handlee&family=Satisfy&display=swap');
+
+.topnav{
+    background: url("banner.png");
+    float: center;
+    color: black;
+    text-align: right;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana;
+    text-align: right;
+    background-size: cover;
+    padding: 35px;
+    margin: 0px;
+    word-spacing: 35px;
+}
+#topnav {
+    color: white;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Carter One', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Satisfy', cursive;
+}
+.head{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #DBDBDB;
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Satisfy', cursive;
+}
+.mtarayat {
+    
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top:50px;
+    margin-left: -1350px;
+
+}
+.pinatubo {
+   
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: -427px;
+    margin-left: -10px;
+
+}
+.pinatuboimg {
+    margin-left: 646px;
+    margin-top: -600px;
+}
+.aquaplanetimg {
+    margin-top: -606px;
+    margin-left: 1290px;
+}
+.aquaplanet {
+   
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: -328px;
+    margin-left: 1290px;
+}
+ .comment-section {
+    margin-left: 680px;
+    position: absolute;
+    margin-top: 400px;
+    transform: translate (-50, -50);
+    width: 500px;
+  }
+  .comment-section h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .comment-section input {
+    width: 100%;
+    height: 30px;
+    padding: 0 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  .comment-section textarea {
+    width: 100%;
+    height: 150px;
+    padding-left: 40px;
+  }
